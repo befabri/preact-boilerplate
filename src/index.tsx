@@ -4,7 +4,7 @@ import { Home } from "./pages/Home";
 import { NotFound } from "./pages/_404";
 import { Header } from "./components/layout/Header";
 import "./style.css";
-import { ThemeProvider } from "./components/theme-provider";
+import { ThemeProvider } from "./components/ui/theme-provider";
 
 export function App() {
     return (
